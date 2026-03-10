@@ -5,3 +5,4 @@ Google Antigravity
 opencode
 Codex
 openclaw
+vscdoe
