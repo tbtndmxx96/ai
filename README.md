@@ -5,4 +5,5 @@ Google Antigravity
 opencode
 Codex
 openclaw
-vscdoe
+Vscdoe
+Copilot
