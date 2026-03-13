@@ -7,3 +7,4 @@ Codex
 openclaw
 Vscdoe
 Copilot
+Curssor
