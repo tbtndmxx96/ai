@@ -1,5 +1,4 @@
-# ai
-ai project
+# ai code
 Claude Code
 Google Antigravity
 opencode
@@ -8,3 +7,4 @@ openclaw
 Vscdoe
 Copilot
 Curssor
+JetBrains IDEs
