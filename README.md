@@ -6,5 +6,3 @@ Codex
 openclaw
 Vscdoe
 Copilot
-Curssor
-JetBrains IDEs
