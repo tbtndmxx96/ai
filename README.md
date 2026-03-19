@@ -7,3 +7,4 @@ openclaw
 Vscdoe
 Copilot
 Github
+WebStrom
