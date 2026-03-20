@@ -8,3 +8,4 @@ Vscdoe
 Copilot
 Github
 WebStrom
+DeepSeek
