@@ -10,3 +10,4 @@ Github
 WebStrom
 DeepSeek
 DouBao
+TenXun
