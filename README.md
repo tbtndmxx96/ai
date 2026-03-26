@@ -11,3 +11,4 @@ WebStrom
 DeepSeek
 DouBao
 TenXun
+Qwen
