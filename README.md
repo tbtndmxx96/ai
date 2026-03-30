@@ -12,3 +12,4 @@ DeepSeek
 DouBao
 TenXun
 Qwen
+yuanbao
