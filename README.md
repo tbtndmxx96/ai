@@ -13,3 +13,4 @@ DouBao
 TenXun
 Qwen
 yuanbao
+zhijie
