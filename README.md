@@ -14,3 +14,4 @@ TenXun
 Qwen
 yuanbao
 zhijie
+shanhuo
