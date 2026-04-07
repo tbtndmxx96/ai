@@ -15,3 +15,4 @@ Qwen
 yuanbao
 zhijie
 shanhuo
+cc-switch
