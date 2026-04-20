@@ -16,3 +16,4 @@ yuanbao
 zhijie
 shanhuo
 cc-switch
+xiaomu
